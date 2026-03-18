@@ -1,5 +1,5 @@
 # design-with-ai-workshop
-some side notes about a workshop I'll be hosting at [MOME Robotics Studio in Budapest](https://www.momerobotics.com/) integrating sensecraft (as a startgin point, other tinyML tools on the long run) to Node-RED and Touch Designer.
+some side notes about a workshop I'll be hosting at [MOME Robotics Studio in Budapest](https://www.momerobotics.com/) integrating [Sensceraft AI](https://sensecraft.seeed.cc/ai/) to [Node-RED](https://nodered.org/) and [Touch Designer](https://derivative.ca/) creating a system able to work locally. 
 
 The starting point, connected to a video that I'll put here, is training a little custom AI model to discern several (in)famous italian signs: in this case the immortal "what do you want", the horn and the minor but ever common "there nothing". 
 
