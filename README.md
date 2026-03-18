@@ -1,5 +1,9 @@
 # design-with-ai-workshop
-some side notes about a workshop I'm bringing around integrating sensecraft (as a startgin point, other tinyML tools on the long run) to Node-RED and Touch Designer
+some side notes about a workshop I'll be hosting at MOME Budapest integrating sensecraft (as a startgin point, other tinyML tools on the long run) to Node-RED and Touch Designer.
+
+The starting point, connected to a video that I'll put here, is training a little custom AI model to discern several (in)famous italian signs: in this case the immortal "what do you want", the horn and the minor but ever common "there nothing". 
+
+This is dedicated and inspired by Bruno Munari's "supplement to the Italian Dictionary" from 1963.  
 
 These are the side notes we are going to follow during the workshop.
 
