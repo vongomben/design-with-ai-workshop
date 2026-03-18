@@ -5,7 +5,7 @@ These are the side notes we are going to follow during the workshop.
 
 In order to follow you have to have   
 * a [Xiao ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) + USB cable
-* an account on sensceraft ai
+* an account on [Sensceraft AI](https://sensecraft.seeed.cc/ai/)
 * [node-red installed on your PC](https://nodered.org/docs/getting-started/local)
 * an MQTT broker locally installed, we are using [Aedes as a Node-RED node](https://flows.nodered.org/node/node-red-contrib-aedes)
 * [OSC nodes installed in Node-RED](https://flows.nodered.org/node/node-red-contrib-osc)
@@ -18,6 +18,8 @@ In order to follow you have to have
 * Install Aedes and OSC in your Node-RED 
 * Import Design-with-AI-Flow-vers1.json in your Node-RED 
 * Deploy 
+
+![https://raw.githubusercontent.com/vongomben/design-with-ai-workshop/refs/heads/main/node-red.png]()
 
 ## Sensecraft
 
@@ -32,5 +34,7 @@ You should be receiving things in Node-RED as you press "start" invoking data fr
 ## TouchDesigner
 
 * Import  osc-to-text.toe, you should see the command sent from Node-RED 
+
+![https://raw.githubusercontent.com/vongomben/design-with-ai-workshop/refs/heads/main/touch-designer.png]()
 
 Evviva!
