@@ -19,7 +19,7 @@ In order to follow you have to have
 * Import Design-with-AI-Flow-vers1.json in your Node-RED 
 * Deploy 
 
-![https://github.com/vongomben/design-with-ai-workshop/blob/main/node-red.png?raw=true]()
+![](https://github.com/vongomben/design-with-ai-workshop/blob/main/node-red.png?raw=true)
 
 ## Sensecraft
 
@@ -35,6 +35,6 @@ You should be receiving things in Node-RED as you press "start" invoking data fr
 
 * Import  osc-to-text.toe, you should see the command sent from Node-RED 
 
-![https://github.com/vongomben/design-with-ai-workshop/blob/main/touch-designer.png?raw=true]()
+![](https://github.com/vongomben/design-with-ai-workshop/blob/main/touch-designer.png?raw=true)
 
 Evviva!
