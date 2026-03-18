@@ -5,6 +5,8 @@ The starting point, connected to a video that I'll put here, is training a littl
 
 This is dedicated and inspired by Bruno Munari's "supplement to the Italian Dictionary" from 1963.  
 
+![](https://github.com/vongomben/design-with-ai-workshop/blob/main/supplemento.jpg?raw=true)
+
 These are the side notes we are going to follow during the workshop.
 
 In order to follow you have to have   
