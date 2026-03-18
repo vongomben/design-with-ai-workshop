@@ -3,7 +3,7 @@ some side notes about a workshop I'll be hosting at [MOME Robotics Studio in Bud
 
 The starting point, connected to [this video on Youtube](https://www.youtube.com/watch?v=Qcg3zmJe890) (italian, english subtitled for now), is training a little custom AI model to discern several (in)famous italian signs: in this case the immortal "what do you want", the horn and the minor but ever common "there nothing". 
 
-[<img alt="alt_text" width="40px" src="https://github.com/vongomben/design-with-ai-workshop/blob/main/video-lesson.png?raw=true" />](https://www.youtube.com/watch?v=Qcg3zmJe890)
+[<img alt="alt_text" width="600px" src="https://github.com/vongomben/design-with-ai-workshop/blob/main/video-lesson.png?raw=true" />](https://www.youtube.com/watch?v=Qcg3zmJe890)
 
 
 This is dedicated and inspired by Bruno Munari's "supplement to the Italian Dictionary" from 1963.  
