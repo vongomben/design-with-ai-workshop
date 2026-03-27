@@ -16,6 +16,7 @@ In order to follow you have to have
 * a [Xiao ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) + USB cable
 * an account on [Sensceraft AI](https://sensecraft.seeed.cc/ai/)
 * [node-red installed on your PC](https://nodered.org/docs/getting-started/local)
+  * [install node js](https://nodejs.org/en/download) 
 * an MQTT broker locally installed, we are using [Aedes as a Node-RED node](https://flows.nodered.org/node/node-red-contrib-aedes)
 * [OSC nodes installed in Node-RED](https://flows.nodered.org/node/node-red-contrib-osc)
 * [Touch Designer](https://derivative.ca/) installed on your PC
